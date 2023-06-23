@@ -298,11 +298,7 @@
     background-color: #2c71b8;
     color: white;
   }
-  background-position: center;
-  background-repeat: no-repeat;
-  padding: 10px;
-  flex-direction: column;
-  }
+ 
   .con-img1{
     background-image: url("images/icon\ \(17\).png");
   }
