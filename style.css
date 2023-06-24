@@ -393,15 +393,18 @@ align-self: flex-end;
 padding-top: 15px;
 font-size: 20px;
 margin-bottom: 20px;
+padding: 15px;
 }
 .product-description {
   font-size: 20px; 
+  padding: 15px;
 }
 .btn-more-details {
 display: flex;
 flex-direction: column;
 font-size: 25px;
-padding: 10px 60px;
+padding: 10px 30px;
+margin: auto;
 font-weight: bold;
 font-family: "Roboto", sans-serif;
 border: 1px solid white;
@@ -414,7 +417,8 @@ text-align: center;
 .btn-add-to-cart {
   display: block;
   font-size: 25px;
-  padding: 0 30px;
+  padding: 0 25px;
+  margin: auto;
   font-weight: bold;
   font-family: "Roboto", sans-serif;
   border: 1px solid white;
